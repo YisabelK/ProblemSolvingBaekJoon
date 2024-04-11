@@ -1,4 +1,4 @@
-package org.example;
+package org.example.recursion;
 
 import java.util.Scanner;
 // Problem: Given a non-negative integer N, write a program to output N factorial (N!)
